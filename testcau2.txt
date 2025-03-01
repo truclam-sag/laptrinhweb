@@ -1,1 +1,2 @@
-đây là file testcau2.txt của branch test_merge
+đây là file testcau2.txt của 
+branch test_merge và main
